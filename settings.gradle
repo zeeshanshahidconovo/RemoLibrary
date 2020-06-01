@@ -1,0 +1,3 @@
+rootProject.name='RemoBTLibrary'
+include ':app'
+include ':remolibrary'
